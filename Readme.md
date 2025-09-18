@@ -2,7 +2,7 @@
 
 ## Groupe 
 
-- vos noms 
+- SVD NTN
 
 ## But 
 
@@ -49,7 +49,8 @@ H. Lancez la machine virtuelle : **Play virtual machine**
 
 G. Lancement du live CD : 
 
-[Placer votre capture d'écran]() 
+<img width="1920" height="1041" alt="Capture d’écran 2025-09-18 153024" src="https://github.com/user-attachments/assets/bbc09baa-64be-4a57-a247-89ba1482423e" />
+
 
 Shell Linux : 
 
@@ -59,28 +60,30 @@ Shell Linux :
 
 Q1. disposition du clavier américain ?
 
-> votre réponse ?!
+> QWERTY
 
 Q2. disposition du clavier suisse-romand ?
 
-> votre réponse ?!
+> QWERTZ
 
 Q3. disposition du le clavier français ? 
 
-> votre réponse ?!
+> AZERTY
 
 
 H. Déplacez-vous à la **racine du système** en utilisant la commande suivante : `cd` 
 
-> vore commande ?!
+Q4. Quelle est la commande complète ? 
+
+> cd /
 
 I. Affichez le contenu de la racine avec la commande : `ls –l`	
 
-![Placer votre capture d'écran]() 
+<img width="1920" height="1041" alt="Capture d’écran 2025-09-18 155036" src="https://github.com/user-attachments/assets/05ecafd4-11bf-484e-b28f-55142e5cda92" />
 
 Q5. Que signifie l'option `-l` avec la commande `ls` 
 
-> votre réponse ?!
+> L'option -l avec la commande ls signifie "long format"
 
 Q6. Décrypter la ligne où se trouve le répertoire **home**    
 
