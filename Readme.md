@@ -49,13 +49,11 @@ Cette manipulation a pour but d'installer une distribution linux [Sparky Linux](
 
 Lancement du live CD : 
 
-[Placer votre capture d'écran]() 
+<img width="1920" height="1041" alt="Capture d’écran 2025-09-18 153024" src="https://github.com/user-attachments/assets/f1fcc49b-982d-42dc-a304-7f7ffb424186" />
 
 Shell Linux : 
 
 [Placer votre capture d'écran]() 
-
-<img width="1920" height="1041" alt="Capture d’écran 2025-09-18 153024" src="https://github.com/user-attachments/assets/f1fcc49b-982d-42dc-a304-7f7ffb424186" />
 
 
 > **ATTENTION** : par défaut, le clavier est configuré est **Clavier Americain**
@@ -86,15 +84,15 @@ Shell Linux :
 
 Q1. Comment se nomme le clavier américain ?
 
-> votre réponse ?!
+> QWERTY
 
 Q2. Comment se nomme le clavier suisse-romand ?
 
-> votre réponse ?!
+> QWERTZ
 
 Q3. Comment se nomme le clavier français ? 
 
-> votre réponse ?!
+> AZERTY
 
 Q4. Que signifie l'option `-l` avec la commande `ls` 
 
