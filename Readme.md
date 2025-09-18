@@ -80,21 +80,26 @@ I. Affichez le contenu de la racine avec la commande : `ls –l`
 
 Q5. Que signifie l'option `-l` avec la commande `ls` 
 
-> votre réponse ?!
+> L'option -l avec la commande ls signifie "long format"
 
 Q6. Décrypter la ligne où se trouve le répertoire **home**    
 
-[Placer votre capture d'écran]()
+<img width="1920" height="1041" alt="Capture d’écran 2025-09-18 155036 (1)" src="https://github.com/user-attachments/assets/6982e63a-451e-4f0d-add2-055b8bd2f7f8" />
 
-> votre réponse ?!
+> Sep 18 13:29 Date et heure de la dernière modification
+> 60 c'est la taille du répertoire en octets
+> 1 root root crée le lien entre le propriétaire et le groupe du répertoire
+> d c'est le type de fichier d = directory
+> rwxr-xr-x droits d'accès propriétaire
+>home c'est le répertoire
 
 J. Créez un répertoire de travail nommé « EMSY_VosInitiales» dans quel dossier racine allez-vous le placer (justifiez votre réponse) et quelle commande allez-vous utiliser. 
 
-> votre commande ?! 
+> cd lib 
 
 Q7. Si vous créez un répertoire de travail (pour éditer/sauvegarder des fichiers), dans quelle **répertoire racine** vous vous placez ? 
 
-> votre réponse ?!
+> sudo mkdir EMSY-SVD-NTN
 
 
 K. Dans ce répertoire, créez un fichier texte que vous nommerez `TESTSLO_XXX_XXX` et éditez celui en écrivant un texte, exemple : "TP linux by XXX et XXX".
