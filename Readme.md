@@ -21,7 +21,7 @@ B. Sélectionnez **Create a New Virtual Machine**
 
 C. Placez le fichier `.iso` dans une repertoire connu : 
 
-`C:\VosInitiales\VM\ISO`
+`C:\SVD\VM\ISO`
 
 D. Indiquez le chemin d’accès de l’image iso comme indiqué sous l’image ci-dessous :
 
@@ -109,11 +109,11 @@ Q8. Dans ce répertoire, créez un fichier texte que vous nommerez `TESTSLO_XXX_
 
 Q9. dans le répertoire `/home`, pouvez-vous éditez un fichier uniquement avec la commande `vi` 
 
-> Non car nous ne somme pas dans le /hoem/live et nous n'avons donc pas l'option de faire cella.
+> Non car nous ne somme pas dans le /home/live et nous n'avons donc pas l'option de faire cella.
 
 Q10. Si vous éteignez la machine virtuelle et que vous la rallumez, est-ce que le répertoire créé ci-dessus existe toujours (justifiez votre réponse) ? 
 
-> On est sur un CD donc on ne peut pas écrir desssus comme sur un vrais CD physique. 
+> On est sur un CD virtuel donc on ne peut pas écrir desssus comme sur un vrais CD physique. 
 
 L. Tapez la commande `ls -l /dev/sda` 
 
@@ -133,6 +133,36 @@ Q12. Décrypter la réponse après avoir taper la commande `ls -l /dev/sda` -> v
 > 8 veut dire que c'est un périphérique SATA ou SCSI
 > 0 indentifie le dispositif
 > Sep 25 13:41 date et heure
+
+Q13. Quelle est la taille de disque minimum recommandée pour insataller la distribution Sparky ? 
+
+>2Go minimum recommander 
+
+Q14. A quoi sert la partition swap ? Est-ce que ce principe existe sur les OS Microsoft Windows ?
+
+Q15. Quel format pourriez-vous utiliser pour la 3ème partiotion afin qu'elle soit également accessible depuis un OS Microsoft ? 
+
+Q16. Durant l'installation, on vous demande deux noms d'utilisateur. A quoi correspondent-ils ?
+
+Q17. À quoi sert "nano" ? 
+
+Q18. Comment savoir si "git" est déjà installé ? 
+
+Q19. Quelles commandes utilisez-vous pour l'installer ? 
+
+Q20. Que veut dire "apt" ? 
+
+Q21. ESt-ce que cette commande peut être utilisée sur toutes les distributions Linux ? 
+
+Q22. Quel est le répertoire utilisateur ?
+
+Q23. Quelles sont les commandes que vous allez utiliser
+
+Q24. Qu'observez-vous dans votre répertoire ?
+
+Q25. Quels sont les fichiers qui ont été générés ?
+
+Q26. Que se pass-t-il ?
 
 ## Tips 
 
