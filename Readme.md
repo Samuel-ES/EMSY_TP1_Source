@@ -95,8 +95,8 @@ Q6. Décrypter la ligne où se trouve le répertoire **home**
 
 J. Créez un répertoire de travail nommé « EMSY_VosInitiales» dans quel dossier racine allez-vous le placer (justifiez votre réponse) et quelle commande allez-vous utiliser. 
 
-> cd /home
-> sudo mkdir EMSY-SVD-NTN
+> cd /home/live
+>  mkdir EMSY-SVD-NTN
 
 Q7. Si vous créez un répertoire de travail (pour éditer/sauvegarder des fichiers), dans quelle **répertoire racine** vous vous placez ? 
 
@@ -105,28 +105,34 @@ Q7. Si vous créez un répertoire de travail (pour éditer/sauvegarder des fichi
 Q8. Dans ce répertoire, créez un fichier texte que vous nommerez `TESTSLO_XXX_XXX` et éditez celui en écrivant un texte, exemple : "TP linux by XXX et XXX".
 	Utiliser la commande `vi`
 
-> 
+> vi TESTSLO_SVD_NTN
 
 Q9. dans le répertoire `/home`, pouvez-vous éditez un fichier uniquement avec la commande `vi` 
 
-> votre réponse ?!
+> Non car nous ne somme pas dans le /hoem/live et nous n'avons donc pas l'option de faire cella.
 
 Q10. Si vous éteignez la machine virtuelle et que vous la rallumez, est-ce que le répertoire créé ci-dessus existe toujours (justifiez votre réponse) ? 
 
-> votre réponse ?!
+> On est sur un CD donc on ne peut pas écrir desssus comme sur un vrais CD physique. 
 
 L. Tapez la commande `ls -l /dev/sda` 
 
-![Placer votre capture d'écran]() 
+<img width="406" height="23" alt="Capture d’écran 2025-09-25 155625" src="https://github.com/user-attachments/assets/64f6d4f4-35a6-4de0-8325-2e33f16e6174" />
 
 Q11. Que signifie **sda** ? 
 
-> votre réponse ?!
+> Disque dur (ou SSD) détecté en premier 
 
 Q12. Décrypter la réponse après avoir taper la commande `ls -l /dev/sda` -> voir résultat point 13.
 
-> votre réponse ?!
-
+> b c'est le block
+> rw c'est pour read et writ et le - veut dire qu'on a pas les permissions
+> 1 c'est le nombre de lien vers le fichier
+> root c'est le propriétaire du fichier
+> disk c'est le groupe propriéaire du fichier
+> 8 veut dire que c'est un périphérique SATA ou SCSI
+> 0 indentifie le dispositif
+> Sep 25 13:41 date et heure
 
 ## Tips 
 
