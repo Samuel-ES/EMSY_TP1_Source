@@ -140,9 +140,21 @@ Q13. Quelle est la taille de disque minimum recommandée pour insataller la dist
 
 Q14. A quoi sert la partition swap ? Est-ce que ce principe existe sur les OS Microsoft Windows ?
 
+>La partition swap est un espace sur le disque dur/SSD utilisé comme extension de la mémoire vive.
+>Elle permet au système d’exploitation de gérer un manque de RAM / saturation de RAM et de mettre en veille prolongée.
+>Non mais un principe équivalent existe. Sous Windows, il ne s’agit pas d’une partition dédiée mais d’un fichier d’échange appelé pagefile.sys
+
 Q15. Quel format pourriez-vous utiliser pour la 3ème partiotion afin qu'elle soit également accessible depuis un OS Microsoft ? 
 
+>W95 FAT32
+
 Q16. Durant l'installation, on vous demande deux noms d'utilisateur. A quoi correspondent-ils ?
+
+>Real user name c'est le nom de l'administrateur
+>New user name c'est le nom d'utilisateur
+
+Démarage système
+<img width="317" height="107" alt="Capture d’écran 2025-10-02 162956" src="https://github.com/user-attachments/assets/33a90177-2f94-4fe5-891f-f09e7594b89c" />
 
 Q17. À quoi sert "nano" ? 
 
