@@ -156,25 +156,52 @@ Q16. Durant l'installation, on vous demande deux noms d'utilisateur. A quoi corr
 Démarage système
 <img width="317" height="107" alt="Capture d’écran 2025-10-02 162956" src="https://github.com/user-attachments/assets/33a90177-2f94-4fe5-891f-f09e7594b89c" />
 
+N. Après l'installation de Linux, prenez une captured'écran du démarrage de votre système (GRUB).
+
+O. Trouver la ou les lignes de commande permettant de changer le clavier trouvable sous "German (Switzerland) et procédez à la configuration du clavier.
+
+P. Testez si l'application "nano" est installée sur votre machine, tapez la commande:
+nano --version
+
 Q17. À quoi sert "nano" ? 
+
+>Nano est un éditeur de texte qui permet d'ouvrir et de modifier des fichiers texte. 
 
 Q18. Comment savoir si "git" est déjà installé ? 
 
+>git --version comme pour nano 
+
 Q19. Quelles commandes utilisez-vous pour l'installer ? 
+
+>sudo apt install git
 
 Q20. Que veut dire "apt" ? 
 
+>Cela veut dire Advenced Package Tool
+
 Q21. ESt-ce que cette commande peut être utilisée sur toutes les distributions Linux ? 
+
+>Non, elle ne fonctionne pas sur toutes les versions. Seulement sur les versions qui possède le format .deb comme notre version: Debian
 
 Q22. Quel est le répertoire utilisateur ?
 
+>samuel
+
 Q23. Quelles sont les commandes que vous allez utiliser
+
+>mkdir
 
 Q24. Qu'observez-vous dans votre répertoire ?
 
+>La source du TP1 d'EMSY est apparu dans notre sous-répertoire 
+
 Q25. Quels sont les fichiers qui ont été générés ?
 
+>EMSY_TP1 / EMSY_TP1.o
+
 Q26. Que se pass-t-il ?
+
+
 
 ## Tips 
 
