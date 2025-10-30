@@ -201,6 +201,7 @@ Q25. Quels sont les fichiers qui ont été générés ?
 
 Q26. Que se pass-t-il ?
 
+>Le code de notre fichier est exécuté 
 
 
 ## Tips 
